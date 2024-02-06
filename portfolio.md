@@ -2,8 +2,10 @@ Sumit Shrestha
 IT System Administrator
 Stepney Green, London, UK
 Sumitshrestha69@gmail.com, 07503350223
+
 Profile
 I am dedicated and hardworking IT system administrator with passion for working within the IT industry. I have over three years of experience of providing technical assistance within customer facing and corporate environment. I am good at problem solving, fast learner with “can-do” attitude, and have practical knowledge of hardware systems and software programs. I would like to utilise my skills and experienced to further my career to become valuable asset to your company.
+
 Skills and Achievements
 •
 IT Customer support and assistant within customer facing and corporate environment.
@@ -19,9 +21,11 @@ Good understanding of programming (Java, Python, PHP) and web development (Servl
 Degree from University of West London in Computing and Information Systems
 •
 UK DBS cleared
+
 Work Experience
 Relocated to London, UK Jul 2023 - Present
 IT Career Switch (Cyber security Traineeship) - Preparing for IT professional certification from CompTIA A+, CompTIA Network+, CompTIA Security+, CCNA, Microsoft MD-100 and Microsoft MD-101
+
 IT System Administrator
 Spark Group – Kathmandu, Nepal Mar 2022 – Feb 2023
 •
@@ -74,6 +78,7 @@ Domain and hosting management for company.
 Regular schedule incremental backup management
 •
 Regular documentation
+
 IT officer / IT Consultant (Freelancing)
 Shruti Store – Kathmandu, Nepal Aug 2017 – Feb 2022
 •
@@ -86,6 +91,7 @@ Manage cPanel and hosting
 Windows 2019 Active Directory and User management
 •
 G-suit(Domain, Hosting, Email, Google meet) implementation and management.
+
 Computer Hardware and Network Technician
 UKCP (UK Computer Parts) North Wembley, London, UK Oct 2015 – Feb 2016
 •
@@ -108,6 +114,7 @@ Network devices firmware update
 Repair and assemble computer and laptop for resell
 •
 Backup and deployment System and software.
+
 Dispatch Team Leader / IT Technician
 ILfornaio Pvt. Ltd. – Park Royal, London Apr 2011 – Sep 2015
 Dispatch Team leader
@@ -128,12 +135,14 @@ Required software installation and update patches
 Antivirus installation and update
 •
 Regular system and file backup
+
 Translator
 IMG Worldwide – Chiswick, London Apr 2010 – May 2010
 •
 Translate and transcription documentary and videos from Nepali, Newari to English
 •
 Audio, Video editing and adding subtitle
+
 Hardware and Network Technician
 Nap International Pvt. Ltd. – Kathmandu, Nepal Jan 2007 – Jan 2009
 •
@@ -144,6 +153,7 @@ Troubleshoot network connection and internet issues
 Customise desktop PC and laptop.
 •
 Selling computer and its peripherals
+
 Education
 BSc Hons Computing and Information Systems
 University of West London Feb 2012 – Mar 2013
